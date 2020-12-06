@@ -92,9 +92,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     name = "categories"
     weight = 70.0
 
-# Install Zhulab
+# Install zhulab
 [module]
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/zhulab"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic"
